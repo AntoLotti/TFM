@@ -1,3 +1,6 @@
 [submodule "LIS3DH_stm32_driver"]
 	path = LIS3DH_stm32_driver
 	url = git@github.com:AntoLotti/LIS3DH_stm32_driver.git
+[submodule "qemu_alott"]
+	path = qemu_alott
+	url = git@github.com:AntoLotti/qemu_alott.git
