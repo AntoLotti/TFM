@@ -4,3 +4,6 @@
 [submodule "DockerMatrixMCU"]
 	path = DockerMatrixMCU
 	url = https://github.com/DIE-SILVASE/DockerMatrixMCU.git
+[submodule "qemu_new"]
+	path = qemu_new
+	url = git@github.com:AntoLotti/qemu_new.git
