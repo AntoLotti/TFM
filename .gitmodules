@@ -7,3 +7,6 @@
 [submodule "Thesis-doc"]
 	path = Thesis-doc
 	url = git@github.com:AntoLotti/Thesis-doc.git
+[submodule "lis3dh-driver"]
+	path = lis3dh-driver
+	url = git@github.com:AntoLotti/lis3dh-driver.git
