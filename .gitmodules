@@ -7,3 +7,6 @@
 [submodule "qemu_new"]
 	path = qemu_new
 	url = git@github.com:AntoLotti/qemu_new.git
+[submodule "Thesis-doc"]
+	path = Thesis-doc
+	url = git@github.com:AntoLotti/Thesis-doc.git
